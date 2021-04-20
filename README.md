@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+[Github stats](https://github-readme-stats.vercel.app/api?username=mansion3058)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-![Github stats](https://github-readme-stats.vercel.app/api?username=mansion3058)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mansion3058&repo=NumtoAlpha) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mansion3058&repo=NumtoAlpha)
