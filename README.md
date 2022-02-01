@@ -5,8 +5,8 @@
 
 - 💬 Ask me about my famous work
 
--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mansion3058&repo=Expression-Solver
-)  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mansion3058&repo=NumtoAlpha)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mansion3058&repo=30Bits
+)   ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mansion3058&repo=Hangman)
 
 
 
