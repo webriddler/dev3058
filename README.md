@@ -8,7 +8,7 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3058&repo=QuotesCanva
 )   ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3058&repo=Hangman)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev3058&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev3058&layout=compact&card_width=500" align = "center"/>
+</p>
 
