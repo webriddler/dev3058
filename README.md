@@ -5,7 +5,7 @@
 
 - 💬 Ask me about my famous work
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3058&repo=QuotesCanva
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3058&repo=cookie-consent
 )   ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3058&repo=Hangman)
 
 <p>
