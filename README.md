@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, it's Dev</h1>
 <h3 align="center">A passionate Python developer.</h3>
 
-- 🔭 I’m currently working at M&C
-
 - 💬 Ask me about my famous work
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev3058&repo=cookie-consent.gihub.io)
